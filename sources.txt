@@ -1,0 +1,129 @@
+# 兴趣方向
+> C++, 现代C++, 模板元编程, 内存模型
+> AI基础设施, CUDA, GPU编程, 算子优化, LLM serving
+> 编译器, LLVM, MLIR, AI编译器, Mojo
+> 计算机体系结构, 处理器, RISC-V, 微架构
+> 并发与并行, 无锁数据结构, 集合通信, NCCL, HCCL, MPI
+> 软件工程, 设计模式, 架构, 代码审查, 技术管理, Staff Engineer
+> Rust, 系统编程, 性能优化, profiling
+> 操作系统, Linux内核, 嵌入式
+> HPC, SIMD, 向量化, 浮点数, 内存层次结构
+> 存在主义哲学, 精神分析, 心理学, 社会科学
+> 动画, 漫画, ACG文化, 藤本树, 押井守, 宫崎骏
+> 文学, 电影, 加缪, 陀思妥耶夫斯基, 鲁迅
+> 摄影, 深空摄影, 富士相机
+
+# 聚合站
+https://news.ycombinator.com/
+https://lobste.rs/
+https://lwn.net/
+https://dev.to/
+
+# 个人技术博客 - C++/系统
+https://www.hillelwayne.com/
+https://www.fluentcpp.com/
+https://www.modernescpp.com/
+https://herbsutter.com/
+https://www.gotw.ca/
+https://preshing.com/
+https://bot-man-jl.github.io/
+https://fuzhe1989.github.io/
+https://hedzr.com/
+https://nullprogram.com/
+https://bartoszmilewski.com/
+https://thephd.dev/
+https://owent.net/
+
+# 个人技术博客 - 编译器/PL/AI
+https://matklad.github.io/
+https://eli.thegreenplace.net/
+https://research.swtch.com/
+https://xffxff.github.io/
+https://yuhao0102.github.io/
+https://abcdabcd987.com/
+https://simonwillison.net/
+https://chisophugis.github.io/
+https://lotabout.me/
+
+# 个人技术博客 - 系统/性能
+https://tavianator.com/
+https://blog.nelhage.com/
+https://yosefk.com/
+https://travisdowns.github.io/
+https://easyperf.net/
+https://arthurchiao.art/
+https://dirtysalt.github.io/
+https://blog.codingnow.com/
+https://blog.sesse.net/
+
+# 个人技术博客 - 软件工程/管理
+https://martinfowler.com/
+https://austinhenley.com/
+https://www.adamtornhill.com/
+https://blog.royalsloth.eu/
+https://www.noidea.dog/
+https://norvig.com/
+https://eatonphil.com/
+https://blog.youxu.info/
+https://lenciel.com/
+https://blog.cleancoder.com/
+https://phauer.com/
+https://staffeng.com/
+https://apenwarr.ca/
+https://entropicthoughts.com/
+
+# 个人技术博客 - Rust
+https://corrode.dev/
+https://ratfactor.com/
+
+# 个人技术博客 - AI/LLM
+https://www.gilesthomas.com/
+https://stratechery.com/
+https://chlorinec.top/
+https://chhzh123.github.io/
+
+# 个人技术博客 - 数学/安全/综合
+https://www.jeremykun.com/
+https://danielmiessler.com/
+http://www.catb.org/~esr/
+
+# Newsletter/Substack
+https://leetarxiv.substack.com/
+https://lcamtuf.substack.com/
+https://magazine.sebastianraschka.com/
+https://newsletter.posthog.com/
+https://usefulfictions.substack.com/
+https://www.freaktakes.com/
+https://olshansky.substack.com/
+
+# 公司/组织博客
+https://abseil.io/blog/
+https://accu.org/
+https://isocpp.org/blog/
+https://developer.nvidia.com/blog/
+https://blog.janestreet.com/
+https://signalsandthreads.com/
+https://thegradient.pub/
+https://testing.googleblog.com/
+https://hazyresearch.stanford.edu/blog
+https://www.modular.com/blog/
+https://pvs-studio.com/blog/
+https://aisystemcodesign.github.io/
+
+# 哲学/心理/文化
+https://plato.stanford.edu/
+https://www.newphilosopher.com/
+https://anartigone.github.io/
+https://www.henrikkarlsson.xyz/
+https://www.astralcodexten.com/
+https://fs.blog/
+
+# ACG/影视
+https://bgm.tv/
+https://jgeekstudios.org/
+https://vocus.cc/
+
+# 英语阅读/媒体
+https://www.theguardian.com/uk/commentisfree
+https://www.quantamagazine.org/
+https://www.palladiummag.com/
