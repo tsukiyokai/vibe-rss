@@ -52,7 +52,7 @@ python3 ~/.claude/skills/vibe-rss/scripts/fetch_urls.py ~/.claude/skills/vibe-rs
 
 ### 5. 生成周报
 
-输出文件：`~/note/proj/vibe-rss/weekly-YYYY-WNN.md`
+输出文件：`./report/weekly-YYYY-WNN.md`
 
 格式：
 
@@ -63,12 +63,9 @@ python3 ~/.claude/skills/vibe-rss/scripts/fetch_urls.py ~/.claude/skills/vibe-rs
 
 ## 1. 中文标题
 - 原文标题: Original Title Here
-- 来源: example.com
-- 链接: https://example.com/article
-- 预估阅读时间: 15 min
-- 难度: 初级/中级/高级
-- 一句话摘要: 一行说清楚文章讲了什么
-- 推荐理由: 为什么值得读，与哪个兴趣方向相关
+- 来源: [example.com](https://example.com/article)
+- 阅读时间/难度: 15 min / 中级
+- 推荐理由: 一句话说清文章讲了什么，以及为什么值得读
 - 摘要: 3-5句话展开核心内容
 
 ## 2. ...
@@ -77,7 +74,7 @@ python3 ~/.claude/skills/vibe-rss/scripts/fetch_urls.py ~/.claude/skills/vibe-rs
 ## 约束
 
 - 全中文输出（原文标题保留原文）
-- 难度分三级：初级、中级、高级
-- 预估阅读时间基于文章长度估算
-- 推荐理由要关联到具体的兴趣标签
+- 难度分三级：初级、中级、高级，与阅读时间合并为一行
+- 来源用markdown链接格式，域名为文本、完整URL为链接
+- 推荐理由融合一句话摘要，先说文章讲什么、再说为什么值得读
 - 摘要要提炼核心观点，不是简单翻译开头段落
