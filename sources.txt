@@ -24,7 +24,6 @@ https://www.hillelwayne.com/
 https://www.fluentcpp.com/
 https://www.modernescpp.com/
 https://herbsutter.com/
-https://www.gotw.ca/
 https://preshing.com/
 https://bot-man-jl.github.io/
 https://fuzhe1989.github.io/
@@ -52,7 +51,6 @@ https://yosefk.com/
 https://travisdowns.github.io/
 https://easyperf.net/
 https://arthurchiao.art/
-https://dirtysalt.github.io/
 https://blog.codingnow.com/
 https://blog.sesse.net/
 
@@ -85,7 +83,7 @@ https://chhzh123.github.io/
 # 个人技术博客 - 数学/安全/综合
 https://www.jeremykun.com/
 https://danielmiessler.com/
-http://www.catb.org/~esr/
+http://esr.ibiblio.org/
 
 # Newsletter/Substack
 https://leetarxiv.substack.com/
@@ -113,14 +111,12 @@ https://aisystemcodesign.github.io/
 # 哲学/心理/文化
 https://plato.stanford.edu/
 https://www.newphilosopher.com/
-https://anartigone.github.io/
 https://www.henrikkarlsson.xyz/
 https://www.astralcodexten.com/
 https://fs.blog/
 
 # ACG/影视
 https://bgm.tv/
-https://jgeekstudios.org/
 https://vocus.cc/
 
 # 英语阅读/媒体
